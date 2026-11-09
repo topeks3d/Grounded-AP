@@ -1,0 +1,15 @@
+# UE4SS dumps
+UE4SS_ObjectDump.txt
+CXXHeaderDump/
+UHTHeaderDump/
+*.usmap
+
+# Runtime files the mod and client create while running
+ipc/
+
+# Python build clutter
+__pycache__/
+*.pyc
+
+# Built apworld 
+*.apworld
