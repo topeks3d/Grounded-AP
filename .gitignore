@@ -13,3 +13,6 @@ __pycache__/
 
 # Built apworld 
 *.apworld
+
+# Personal things
+journal.md
